@@ -2,9 +2,9 @@ import type { Metadata } from "next";
 import { MorsLightExperience } from "./MorsLightExperience";
 
 export const metadata: Metadata = {
-  title: "MORS² — Meta is observed by Rule to Step in Space",
+  title: "Chess Stage",
   description:
-    "A small, elegant, high-performance Rust game engine architecture built around Space, Meta, Field, Rule, and Latent.",
+    "An interactive chess and light experiment by Jolin Li. Swing the lamp to wake the scattered pieces.",
 };
 
 export default function Home() {

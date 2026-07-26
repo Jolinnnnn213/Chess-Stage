@@ -1,25 +1,25 @@
 <div align="center">
 
-# HTML Light Demo
+# Chess Stage
 
 An interactive **HTML-in-Canvas** lighting experiment powered by Three.js.
 
 <p><strong>An unofficial recreation of <a href="https://x.com/kaolti">@kaolti</a>'s project.</strong></p>
 
-<a href="https://jinruozai.github.io/HTML-Light-Demo/">
+<a href="https://YOUR-GITHUB-USERNAME.github.io/Chess-Stage/">
   <img src="https://img.shields.io/badge/Live_Demo-Open-2ea44f?style=for-the-badge&logo=githubpages&logoColor=white" alt="Open the online demo" />
 </a>
 <a href="https://x.com/LazyGooooo">
   <img src="https://img.shields.io/badge/Follow-@LazyGooooo-000000?style=for-the-badge&logo=x&logoColor=white" alt="Follow @LazyGooooo on X" />
 </a>
 
-**[在线体验 Demo →](https://jinruozai.github.io/HTML-Light-Demo/)**
+**[在线体验 Demo →](https://YOUR-GITHUB-USERNAME.github.io/Chess-Stage/)**
 
 </div>
 
 ![A hanging spotlight illuminating an interactive surface](./public/og.jpg)
 
-HTML Light Demo renders a real HTML interface inside a Three.js scene with
+Chess Stage renders a real HTML interface inside a Three.js scene with
 [`three-html-render`](https://www.npmjs.com/package/three-html-render), then
 illuminates it with a physics-driven hanging spotlight. Pull the lamp, reshape
 the beam, and change its color or brightness—the HTML surface reacts in real
@@ -55,8 +55,8 @@ time.
 Requires Node.js 22.13 or newer.
 
 ```bash
-git clone https://github.com/jinruozai/HTML-Light-Demo.git
-cd HTML-Light-Demo
+git clone https://github.com/YOUR-GITHUB-USERNAME/Chess-Stage.git
+cd Chess-Stage
 npm install
 npm run dev
 ```
